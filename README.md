@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/dartgorsky/mis-svg/main/carta%202.png
 https://raw.githubusercontent.com/dartgorsky/mis-svg/main/carta%203.png
 https://raw.githubusercontent.com/dartgorsky/mis-svg/main/carta%204.png
 https://raw.githubusercontent.com/dartgorsky/mis-svg/main/carta%205.png
+https://raw.githubusercontent.com/dartgorsky/mis-svg/main/carta%20%20%206.png
