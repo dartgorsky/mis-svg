@@ -1,6 +1,10 @@
-https://raw.githubusercontent.com/dartgorsky/mis-svg/main/carta%201.png
-https://raw.githubusercontent.com/dartgorsky/mis-svg/main/carta%202.png
-https://raw.githubusercontent.com/dartgorsky/mis-svg/main/carta%203.png
-https://raw.githubusercontent.com/dartgorsky/mis-svg/main/carta%204.png
-https://raw.githubusercontent.com/dartgorsky/mis-svg/main/carta%205.png
-https://raw.githubusercontent.com/dartgorsky/mis-svg/main/carta%20%20%206.png
+https://raw.githubusercontent.com/dartgorsky/mis-svg/main/estrella.png
+https://raw.githubusercontent.com/dartgorsky/mis-svg/main/fresa.png
+https://raw.githubusercontent.com/dartgorsky/mis-svg/main/gato.png
+https://raw.githubusercontent.com/dartgorsky/mis-svg/main/oso.png
+https://raw.githubusercontent.com/dartgorsky/mis-svg/main/zorro.png
+https://raw.githubusercontent.com/dartgorsky/mis-svg/main/luna.png
+https://raw.githubusercontent.com/dartgorsky/mis-svg/main/panda.png
+https://raw.githubusercontent.com/dartgorsky/mis-svg/main/perro.png
+https://raw.githubusercontent.com/dartgorsky/mis-svg/main/pinguino.png
+https://raw.githubusercontent.com/dartgorsky/mis-svg/main/rana.png
